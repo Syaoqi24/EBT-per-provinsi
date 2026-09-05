@@ -112,9 +112,9 @@ Berdasarkan Geothermal Investment Opportunity Index, tiga provinsi berikut menja
 
 ```
 ├── README.md
-├── Potensi_EBT_per_Provinsi_di_Indonesia.ipynb   # Jalur Python
+├── Potensi_EBT_per_Provinsi_di_Indonesia.ipynb             # Jalur Python
 ├── Cleaned_Renewable_Energy_Potential_per_Province_.xlsx   # Jalur Excel
-├── cleaned_province_energy_v2.csv                # Output hasil akhir (38 provinsi)
+├── cleaned_province_energy_v2.csv                          # Output hasil akhir (38 provinsi)
 ├── owid_asean_trend.png
 ├── correlation_pdrb_renewable.png
 └── requirements.txt
